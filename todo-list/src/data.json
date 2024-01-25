@@ -17,7 +17,7 @@
     {
         "id": 4,
         "task": "Add to Data Structures and Algorithms Cornell notes",
-        "complete": true
+        "complete": false
     },
     {
         "id": 5,
@@ -27,12 +27,12 @@
     {
         "id": 6,
         "task": "Read Grokking Algorithms",
-        "complete": true
+        "complete": false
     },
     {
         "id": 7,
         "task": "Finish Cracking the Coding Interview",
-        "complete": true
+        "complete": false
     },
     {
         "id": 8,
@@ -42,7 +42,7 @@
     {
         "id": 9,
         "task": "Update website and portfolio",
-        "complete": true
+        "complete": false
     },
     {
         "id": 10,
@@ -52,12 +52,12 @@
     {
         "id": 11,
         "task": "Practice whiteboarding",
-        "complete": true
+        "complete": false
     },
     {
         "id": 12,
         "task": "Code outloud with friends",
-        "complete": true
+        "complete": false
     },
     {
         "id": 13,
