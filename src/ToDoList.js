@@ -1,5 +1,6 @@
 import React from 'react';
 import ToDo from './ToDo';
+import './index.css'; 
 
 const ToDoList = ({ toDoList, handleToggle, handleFilter }) => {
     return (
