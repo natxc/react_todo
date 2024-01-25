@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "task": "Push React ToDo List App",
+        "complete": true
+    },
+    {
+        "id": 2,
+        "task": "Test Python Minesweeper Game",
+        "complete": true
+    },
+    {
+        "id": 3,
+        "task": "Continue Grind 75",
+        "complete": false
+    },
+    {
+        "id": 4,
+        "task": "Add to Data Structures and Algorithms Cornell notes",
+        "complete": true
+    },
+    {
+        "id": 5,
+        "task": "Review interview notebook",
+        "complete": false
+    },
+    {
+        "id": 6,
+        "task": "Read Grokking Algorithms",
+        "complete": true
+    },
+    {
+        "id": 7,
+        "task": "Finish Cracking the Coding Interview",
+        "complete": true
+    },
+    {
+        "id": 8,
+        "task": "Complete behavioral question grids",
+        "complete": false
+    },
+    {
+        "id": 9,
+        "task": "Update website and portfolio",
+        "complete": true
+    },
+    {
+        "id": 10,
+        "task": "Wrap up big projects",
+        "complete": false
+    },
+    {
+        "id": 11,
+        "task": "Practice whiteboarding",
+        "complete": true
+    },
+    {
+        "id": 12,
+        "task": "Code outloud with friends",
+        "complete": true
+    },
+    {
+        "id": 13,
+        "task": "Work on bootcamp modules",
+        "complete": false
+    },
+    {
+        "id": 14,
+        "task": "Apply to jobs",
+        "complete": false
+    }
+]
